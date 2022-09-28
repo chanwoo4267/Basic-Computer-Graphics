@@ -1,0 +1,12 @@
+﻿  4.5.3.SimpleCameraTransformation_R_GLSL.cpp
+C:\Users\chanw\Desktop\2_4.5.3.SimpleCameraTransformation_R_GLSLe\4.5.3.SimpleCameraTransformation_R_GLSL\4.5.3.SimpleCameraTransformation_R_GLSL.cpp(526,23): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\chanw\Desktop\2_4.5.3.SimpleCameraTransformation_R_GLSLe\4.5.3.SimpleCameraTransformation_R_GLSL\4.5.3.SimpleCameraTransformation_R_GLSL.cpp(556,23): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\chanw\Desktop\2_4.5.3.SimpleCameraTransformation_R_GLSLe\4.5.3.SimpleCameraTransformation_R_GLSL\4.5.3.SimpleCameraTransformation_R_GLSL.cpp(585,23): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\chanw\Desktop\2_4.5.3.SimpleCameraTransformation_R_GLSLe\4.5.3.SimpleCameraTransformation_R_GLSL\4.5.3.SimpleCameraTransformation_R_GLSL.cpp(614,23): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\chanw\Desktop\2_4.5.3.SimpleCameraTransformation_R_GLSLe\4.5.3.SimpleCameraTransformation_R_GLSL\4.5.3.SimpleCameraTransformation_R_GLSL.cpp(643,23): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\chanw\Desktop\2_4.5.3.SimpleCameraTransformation_R_GLSLe\4.5.3.SimpleCameraTransformation_R_GLSL\4.5.3.SimpleCameraTransformation_R_GLSL.cpp(672,23): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\chanw\Desktop\2_4.5.3.SimpleCameraTransformation_R_GLSLe\4.5.3.SimpleCameraTransformation_R_GLSL\4.5.3.SimpleCameraTransformation_R_GLSL.cpp(700,33): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\chanw\Desktop\2_4.5.3.SimpleCameraTransformation_R_GLSLe\4.5.3.SimpleCameraTransformation_R_GLSL\4.5.3.SimpleCameraTransformation_R_GLSL.cpp(711,33): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+  LoadShaders.cpp
+  코드를 생성하고 있습니다...
+  4.5.3.SimpleCameraTransformation_R_GLSL.vcxproj -> C:\Users\chanw\Desktop\2_4.5.3.SimpleCameraTransformation_R_GLSLe\Debug\4.5.3.SimpleCameraTransformation_R_GLSL.exe
